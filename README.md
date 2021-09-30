@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohammad Haris.
+- 👀 I’m interested in Computer Science.
+- 🌱 I’m currently learning Ai Machine Learning 
+- 💞️ I’m looking to collaborate on Ai Machine Learning .Net C# javascript html css bootstrap.
+- 📫 How to reach me mohammadharis99@outlook.com.
