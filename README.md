@@ -1,33 +1,33 @@
-```{=html}
+
 <!-- Premium Animated Header -->
-```
-```{=html}
+
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=MOHAMMAD%20HARIS&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />`{=html}
-```{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=MOHAMMAD%20HARIS&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />
+
 </p>
-```
-```{=html}
+
+
 <h2 align="center">
-```
+
 Senior Software Engineer • System Architect • Performance Engineer
-```{=html}
+
 </h2>
-```
-```{=html}
+
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Enterprise-Grade+Architecture;High-Load+Distributed+Systems;Advanced+Database+Engineering;Observability+%26+Telemetry+Driven+Design;Performance-Optimized+UI+Systems;Scalable+Cloud+Infrastructure;Legacy-Driven+Engineering+Mindset" />`{=html}
-```{=html}
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Enterprise-Grade+Architecture;High-Load+Distributed+Systems;Advanced+Database+Engineering;Observability+%26+Telemetry+Driven+Design;Performance-Optimized+UI+Systems;Scalable+Infrastructure;Legacy-Driven+Engineering+Mindset" />
+
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
 # 🧠 ENGINEERING IDENTITY
 
-``` csharp
+ csharp
 public sealed class Architect
 {
     public string Role => "Senior Software Engineer";
@@ -35,20 +35,20 @@ public sealed class Architect
     public string Mission => "Design systems that scale, endure, and define standards.";
     public string Mindset => "Build for 10x scale before it is required.";
 }
-```
 
-I design and build **mission‑critical, enterprise‑grade systems** from
-the ground up.
 
-From high‑performance UI layers to optimized data stores, from
+I design and build mission-critical, enterprise-grade systems from the
+ground up.
+
+From high-performance UI layers to optimized data stores, from
 validation engines to distributed observability --- every layer is
 engineered for scale, resilience, and clarity.
 
 ------------------------------------------------------------------------
 
-# 🏗️ CORE COMPETENCIES
+# 🏗 CORE COMPETENCIES
 
-## 🔹 Enterprise Architecture
+## Enterprise Architecture
 
 -   Clean layered architecture
 -   Domain-driven validation systems
@@ -56,7 +56,7 @@ engineered for scale, resilience, and clarity.
 -   End-to-end system ownership
 -   Production-first engineering
 
-## 🔹 High-Load & Concurrency Engineering
+## High-Load & Concurrency Engineering
 
 -   Multi-terminal scalable systems
 -   High throughput transaction handling
@@ -64,7 +64,7 @@ engineered for scale, resilience, and clarity.
 -   Performance bottleneck analysis
 -   Resource optimization under load
 
-## 🔹 Database & Data Modeling
+## Database & Data Modeling
 
 -   Advanced document and relational modeling
 -   Query performance tuning
@@ -72,7 +72,7 @@ engineered for scale, resilience, and clarity.
 -   Secure data mutation pipelines
 -   Structured data validation boundaries
 
-## 🔹 API & Integration Systems
+## API & Integration Systems
 
 -   Mutation-heavy transactional APIs
 -   Secure authentication flows
@@ -80,7 +80,7 @@ engineered for scale, resilience, and clarity.
 -   Structured logging pipelines
 -   Correlation ID tracing architecture
 
-## 🔹 UI Engineering
+## UI Engineering
 
 -   High-DPI aware layouts
 -   Performance-sensitive rendering systems
@@ -88,7 +88,7 @@ engineered for scale, resilience, and clarity.
 -   Validation-enforced data entry flows
 -   Enterprise usability standards
 
-## 🔹 Observability & Reliability
+## Observability & Reliability
 
 -   Structured logging design
 -   Metrics-driven monitoring
@@ -112,24 +112,12 @@ engineered for scale, resilience, and clarity.
 
 # 🧩 SYSTEM DESIGN LENS
 
-    Presentation Layer     → Performance-optimized, DPI-aware UI
-    Application Layer      → Clean orchestration logic
-    Domain Layer           → Strict validation & business rules
-    Data Layer             → Indexed, tuned, optimized queries
-    Infrastructure Layer   → Scalable, monitored, resilient
-    Observability Layer    → Logs + Metrics + Traces
-
-------------------------------------------------------------------------
-
-# 🚀 CURRENT ENGINEERING FOCUS
-
--   Enterprise transaction systems (Sales, Purchase, Returns, Inventory)
--   Inline grid architecture standardization
--   High-load terminal optimization
--   Validation-first mutation pipelines
--   Advanced logging standardization
--   Full-stack performance auditing
--   Scalable integration design
+Presentation Layer → Performance-optimized, DPI-aware UI\
+Application Layer → Clean orchestration logic\
+Domain Layer → Strict validation & business rules\
+Data Layer → Indexed, tuned, optimized queries\
+Infrastructure Layer → Scalable, monitored, resilient\
+Observability Layer → Logs + Metrics + Traces
 
 ------------------------------------------------------------------------
 
@@ -149,10 +137,10 @@ I am building systems that:
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=140&section=footer"/>`{=html}
-```{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=140&section=footer"/>
+
 </p>
-```
+
