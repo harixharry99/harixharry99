@@ -1,123 +1,158 @@
 ```{=html}
-<!-- Animated Header -->
+<!-- Premium Animated Header -->
 ```
 ```{=html}
 <p align="center">
 ```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Haris&fontSize=40&fontColor=ffffff&animation=fadeIn" />`{=html}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=MOHAMMAD%20HARIS&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn" />`{=html}
 ```{=html}
 </p>
 ```
 ```{=html}
-<h1 align="center">
+<h2 align="center">
 ```
-🚀 Senior Software Engineer \| System Architect \| Builder of Scalable
-Systems
+Senior Software Engineer • System Architect • Performance Engineer
 ```{=html}
-</h1>
+</h2>
 ```
 ```{=html}
 <p align="center">
 ```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Enterprise+Application+Architect;High-Load+POS+Systems+Engineer;Cloud+%26+Telemetry+Enthusiast;GraphQL+%7C+MongoDB+%7C+.NET+Specialist;Building+Legacy+Through+Code" />`{=html}
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Enterprise-Grade+Architecture;High-Load+Distributed+Systems;Advanced+Database+Engineering;Observability+%26+Telemetry+Driven+Design;Performance-Optimized+UI+Systems;Scalable+Cloud+Infrastructure;Legacy-Driven+Engineering+Mindset" />`{=html}
 ```{=html}
 </p>
 ```
 
 ------------------------------------------------------------------------
 
-## 🧠 About Me
+# 🧠 ENGINEERING IDENTITY
 
 ``` csharp
-public class Engineer
+public sealed class Architect
 {
-    public string Name => "Mohammad Haris";
     public string Role => "Senior Software Engineer";
-    public string Passion => "Building enterprise-grade scalable systems";
-    public string Mission => "Build systems that outlive me.";
-    public string[] Focus => new[]
-    {
-        "High Performance POS Systems",
-        "Enterprise Architecture",
-        ".NET & MAUI",
-        "MongoDB & GraphQL",
-        "Cloud + Observability + Telemetry",
-        "High DPI + Performance Optimized UI"
-    };
+    public string Focus => "Enterprise Architecture & High Performance Systems";
+    public string Mission => "Design systems that scale, endure, and define standards.";
+    public string Mindset => "Build for 10x scale before it is required.";
 }
 ```
 
-💻 I engineer **high-load, enterprise-grade applications**\
-🏗 I design **end-to-end architecture (UI → API → DB → Telemetry)**\
-📈 I optimize for **performance, scalability, and maintainability**\
-🔥 I don't code for projects --- I build **systems & legacy**
+I design and build **mission‑critical, enterprise‑grade systems** from
+the ground up.
+
+From high‑performance UI layers to optimized data stores, from
+validation engines to distributed observability --- every layer is
+engineered for scale, resilience, and clarity.
 
 ------------------------------------------------------------------------
 
-## 🏗️ Core Expertise
+# 🏗️ CORE COMPETENCIES
 
-### ⚙️ Backend Engineering
+## 🔹 Enterprise Architecture
 
--   .NET / .NET Core / C#
--   GraphQL APIs
--   MongoDB (Advanced Mapping & Performance Optimization)
--   Authentication & Secure APIs
--   Enterprise Logging & Telemetry
--   OpenTelemetry + Prometheus + Loki
--   Azure Functions
--   High Concurrency Systems
+-   Clean layered architecture
+-   Domain-driven validation systems
+-   Business-rule enforcement engines
+-   End-to-end system ownership
+-   Production-first engineering
 
-### 🖥️ Frontend / Desktop
+## 🔹 High-Load & Concurrency Engineering
 
--   .NET MAUI (Windows-focused)
--   High DPI Awareness (PerMonitorV2)
--   Custom Layout Engines
--   Performance-sensitive UI
--   POS Inline Grid Layout Systems
--   Animation Systems
+-   Multi-terminal scalable systems
+-   High throughput transaction handling
+-   Race-condition safe processing
+-   Performance bottleneck analysis
+-   Resource optimization under load
 
-### ☁️ Cloud & DevOps
+## 🔹 Database & Data Modeling
 
--   Azure
--   Dockerized Services
--   Terraform Integration
--   CI/CD Automation
--   Auto-update Systems via Git Releases
--   Observability Architecture
+-   Advanced document and relational modeling
+-   Query performance tuning
+-   Index optimization strategies
+-   Secure data mutation pipelines
+-   Structured data validation boundaries
+
+## 🔹 API & Integration Systems
+
+-   Mutation-heavy transactional APIs
+-   Secure authentication flows
+-   Event-driven integrations
+-   Structured logging pipelines
+-   Correlation ID tracing architecture
+
+## 🔹 UI Engineering
+
+-   High-DPI aware layouts
+-   Performance-sensitive rendering systems
+-   Dynamic grid architectures
+-   Validation-enforced data entry flows
+-   Enterprise usability standards
+
+## 🔹 Observability & Reliability
+
+-   Structured logging design
+-   Metrics-driven monitoring
+-   Distributed tracing strategies
+-   Production diagnostics pipelines
+-   Fault isolation & recovery planning
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
+# ⚡ ENGINEERING PRINCIPLES
+
+-   Validate at every boundary
+-   Log with structure, not noise
+-   Design for failure before success
+-   Optimize before scale becomes urgent
+-   Separate concerns aggressively
+-   Enforce business rules centrally
+-   Build systems --- not features
+
+------------------------------------------------------------------------
+
+# 🧩 SYSTEM DESIGN LENS
+
+    Presentation Layer     → Performance-optimized, DPI-aware UI
+    Application Layer      → Clean orchestration logic
+    Domain Layer           → Strict validation & business rules
+    Data Layer             → Indexed, tuned, optimized queries
+    Infrastructure Layer   → Scalable, monitored, resilient
+    Observability Layer    → Logs + Metrics + Traces
+
+------------------------------------------------------------------------
+
+# 🚀 CURRENT ENGINEERING FOCUS
+
+-   Enterprise transaction systems (Sales, Purchase, Returns, Inventory)
+-   Inline grid architecture standardization
+-   High-load terminal optimization
+-   Validation-first mutation pipelines
+-   Advanced logging standardization
+-   Full-stack performance auditing
+-   Scalable integration design
+
+------------------------------------------------------------------------
+
+# 🎯 LONG-TERM VISION
+
+I am not building applications.
+
+I am building systems that:
+
+• Scale without architectural rewrites\
+• Handle extreme transactional load\
+• Maintain clarity under complexity\
+• Set engineering standards
+
+> Code is temporary.\
+> Architecture is legacy.
+
+------------------------------------------------------------------------
 
 ```{=html}
 <p align="center">
 ```
-`<img src="https://skillicons.dev/icons?i=dotnet,cs,mongodb,azure,docker,graphql,git,linux,windows,vscode" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 🎯 Long Term Vision
-
-I don't want to just work a job.
-
-I want to build: - Systems that scale globally\
-- Software that defines standards\
-- Infrastructure that handles extreme load\
-- A technical legacy
-
-> "Normal developers write code.\
-> Engineers build systems.\
-> Architects build empires."
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>`{=html}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=140&section=footer"/>`{=html}
 ```{=html}
 </p>
 ```
